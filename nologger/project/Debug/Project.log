@@ -1,0 +1,7 @@
+﻿  BankAccount.cpp
+  ConsoleLogger.cpp
+  NoLogger.cpp
+  sample.cpp
+  Generating Code...
+  LINK : D:\Dropbox\Kurslar\Havelsan-DesignPatternsUML-2018\Src\029-NullObject\Project - Kopya\Debug\Project.exe not found or not built by the last incremental link; performing full link
+  Project.vcxproj -> D:\Dropbox\Kurslar\Havelsan-DesignPatternsUML-2018\Src\029-NullObject\Project - Kopya\Debug\Project.exe
